@@ -11,5 +11,10 @@ namespace Merge.Conflict.ClassLib
         /// Name of the person.
         /// </summary>
         public string Name { get; set; }
+
+        /// <summary>
+        /// Age of person
+        /// </summary>
+        public int Age { get; set; }
     }
 }
